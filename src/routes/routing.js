@@ -1,6 +1,6 @@
 const express = require('express') ;
 const router = express.Router();
-const GraphorService = require('../service/graphor') ;
+const GraphorService = require('../service/graphor.js') ;
 const fs = require('fs') ;
 
 

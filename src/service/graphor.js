@@ -1,4 +1,4 @@
-const GraphorModel = require('../model/Graphor') ;
+const GraphorModel = require('../model/graphor.js') ;
 let GraphorService = {} ;
 
 
