@@ -6,7 +6,8 @@ const fs = require('fs') ;
 
 
 router.get( "/getjson" , (req, res , next ) => {
-  var data = [{"food":"Hotdogs","quantity":24},{"food":"Tacos","quantity":15},{"food":"Pizza","quantity":3},{"food":"Burger","quantity":2},{"food":"Omelets","quantity":30},{"food":"Falafel","quantity":21},{"food":"Soylent","quantity":13}]
+  var data = [{"food":"Hotdogs","quantity":24},{"food":"Tacos","quantity":15},{"food":"Pizza","quantity":3},{"food":"Burger","quantity":2},{"food":"Omelets","quantity":30},{"food":"Falafel","quantity":21}]
+  //,{"food":"Soylent","quantity":13}]
   res.json({ "message" : data }) ;
 } )
 
