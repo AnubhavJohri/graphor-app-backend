@@ -14,7 +14,7 @@ const url = "mongodb://localhost:27017/GraphorDB";
 //2.)mLab MONGODB URL
 //ONLINE ONLY
 //FOR DEPLOYEMENT AND CLOUD USE
-const MONGOLAB_URI= "mongodb://heroku_nwdh7jqw:glskceqr238p19jkaqrs5n5niu@ds211268.mlab.com:11268/heroku_nwdh7jqw";
+const MONGOLAB_URI= "mongodb://heroku_gnld3pfw:j3ua0r70ihr805ov8ma7do4fkj@ds261077.mlab.com:61077/heroku_gnld3pfw";
 //------------------------------------------------------------------------------------------------------------------
 
 
